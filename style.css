@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: rgb(1, 9, 15);
+    font-size: 0%;
+    text-align: center;
+    display: flex;
+}
+h1{
+    padding: 0%;
+    margin: auto;
+    background-color: rgb(0, 1, 2);
+}
+
+body{
+    background-color: black;
+    color: #18FFBA;
+    text-align: center;
+    margin: 70px;
+    line-height: 90px;
+}
